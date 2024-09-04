@@ -2,11 +2,11 @@
 
 Keep track of tasks with custom project folders and notes.
 
-    This is a Basic Todo-List
-    using date-fns package
-    Check out live preview here: 
-    [Live App](https://jet-black-ninja.github.io/to-do-list/dist/index.html)
-    ![alt text](./image.png "App Preview")
+This is a Basic Todo-List
+using date-fns package
+Check out live preview here: 
+[Live App](https://jet-black-ninja.github.io/to-do-list/dist/index.html)
+![alt text](./image.png "App Preview")
 
 Functionality:-
 
